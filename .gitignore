@@ -11,7 +11,21 @@
 /db/*.sqlite3
 /db/*.sqlite3-journal
 
+# Ignore uploads of development
+/public/uploads/*.*
+
 # Ignore all logfiles and tempfiles.
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore Spring files.
+/spring/*.pid
+
+#ignore gvim editing files (or are buffers?, i don-t know, but just ignore .swp)
+**/*.swn
+**/*.swo
+**/*.swp
+
+#ignore AWS data
+/config/initializers/app_environment_variables.rb
