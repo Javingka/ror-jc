@@ -23,4 +23,6 @@ en:
   contact:
     title: "Contact"
 
+  user_new:
+    title: "sign-up"
   hello: "Hello world"
