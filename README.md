@@ -1,3 +1,2 @@
-# Sitio web Javier Cruz 
+#WorkInProgress
 
-[Javier Cruz](http://www.javiercruz.cl/).
